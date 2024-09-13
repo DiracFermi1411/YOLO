@@ -1,3 +1,3 @@
 # Implementation of YOLO
 
-Still updating this repo
+Ongoing updates and improvements
